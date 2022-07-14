@@ -1,4 +1,4 @@
-# Work Day Scheduler 
+# Work Day Scheduler
 
 ## Purpose
 
@@ -15,7 +15,11 @@ A simple calendar app for scheduling your work day
 
 ## Website
 
+https://kristafrancis.github.io/scheduler-one/
 
+## Preview:
+
+![screenshot](./assets/images/work-day.png)
 
 ## Contribution
 
